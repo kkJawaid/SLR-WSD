@@ -1,0 +1,15 @@
+ACM Digital Library Advanced Search [N/A IN THIS PROJECT, TEMPLATE LEFT INTACT]
+Query field: Abstract
+
+[Abstract: "knowledge graph" OR Abstract: "GraphRAG" OR Abstract: "graph-based retrieval"
+ OR Abstract: "subgraph retrieval"]
+AND
+[Abstract: "retrieval-augmented generation" OR Abstract: "RAG"
+ OR Abstract: "retrieval augmented"]
+AND
+[Abstract: "large language model" OR Abstract: "LLM"
+ OR Abstract: "foundation model"]
+
+Filters: Publication Date 2022-2026, Research Article, English
+
+Records returned: 287

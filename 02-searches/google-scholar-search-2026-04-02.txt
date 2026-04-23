@@ -1,0 +1,20 @@
+Google Scholar Search
+
+Database Constraints: 
+- Strict 256-character limit per query.
+- Does not support deep wildcard/nested Boolean logic effectively.
+- High risk of full-text noise.
+
+----------------------------------------------------------------
+Strict Title Search 
+----------------------------------------------------------------
+Query:
+(Urdu) AND ("Word Sense Disambiguation" OR "WSD" OR "ambiguity" OR "LLM" OR "fine-tuning" OR "WordNet")
+
+Alternative:
+allintitle: Urdu ("Word Sense Disambiguation" OR WSD OR ambiguity OR LLM OR "fine-tuning" OR WordNet)
+
+----------------------------------------------------------------
+
+
+Records returned: 40

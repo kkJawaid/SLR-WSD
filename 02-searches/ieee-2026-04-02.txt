@@ -1,0 +1,20 @@
+IEEE Xplore Command Search
+
+Field tags: Abstract
+
+("Abstract":"Word Sense Disambiguation" OR 
+"Abstract":"WSD" OR "Abstract":"lexical ambiguity" OR
+"Abstract":"semantic understanding" OR "Abstract":"polysemy"
+AND ("Abstract":"Knowledge-Based System" OR "Abstract":"KBS"
+OR "Abstract":"WordNet" OR "Abstract":"ontology"
+OR "Abstract":"knowledge-augmented" OR "Abstract":"structured lexical resource") 
+AND 
+("Abstract":"Urdu" OR "Abstract":"low-resource language"
+OR "Abstract":"low resource" OR "Abstract":"Nastaliq")
+AND "Abstract":"large language model" OR "Abstract":"LLM" OR 
+"Abstract":"fine-tuning" OR "Abstract":"fine tuned" OR "Abstract":"transformer" 
+OR "Abstract":"QLoRA" OR "Abstract":"LoRA")
+
+Filters: 2018-2026, Journals, English, Open Access
+
+Records returned: 1000

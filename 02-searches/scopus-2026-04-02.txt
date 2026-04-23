@@ -1,0 +1,16 @@
+Scopus Advanced Search [N/A IN THIS PROJECT, TEMPLATE LEFT INTACT]
+
+TITLE-ABS-KEY(
+  ("knowledge graph" OR "knowledge graphs" OR "GraphRAG"
+   OR "graph-based retrieval" OR "subgraph retrieval" OR "KG-RAG")
+  AND
+  ("retrieval-augmented generation" OR "RAG" OR "retrieval augmented")
+  AND
+  ("large language model" OR "LLM" OR "LLMs"
+   OR "foundation model" OR "GPT" OR "LLaMA")
+)
+AND PUBYEAR > 2021 AND PUBYEAR < 2027
+AND (LIMIT-TO(LANGUAGE,"English"))
+AND (LIMIT-TO(DOCTYPE,"ar") OR LIMIT-TO(DOCTYPE,"cp"))
+
+Records returned: 1,243

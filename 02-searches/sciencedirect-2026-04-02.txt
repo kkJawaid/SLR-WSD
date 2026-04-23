@@ -1,0 +1,13 @@
+ScienceDirect Expert Search [N/A IN THIS PROJECT, TEMPLATE LEFT INTACT]
+
+Note: ScienceDirect has restrictive Boolean limits (max 8 wildcards).
+Search simplified accordingly.
+
+Title, abstract, keywords:
+("knowledge graph" OR "GraphRAG")
+AND ("retrieval-augmented generation" OR "RAG")
+AND ("large language model" OR "LLM")
+
+Filters: 2022-2026, Research articles + Conference abstracts, English
+
+Records returned: 187

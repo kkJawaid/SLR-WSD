@@ -1,0 +1,13 @@
+Web of Science Core Collection — Advanced Search [N/A IN THIS PROJECT, TEMPLATE LEFT INTACT]
+
+TS=(("knowledge graph" OR "GraphRAG" OR "graph-based retrieval"
+     OR "subgraph retrieval")
+    AND
+    ("retrieval-augmented generation" OR "RAG" OR "retrieval augmented")
+    AND
+    ("large language model" OR "LLM" OR "foundation model"))
+
+Refined by: PUBLICATION YEARS (2022-2026), LANGUAGES (English),
+            DOCUMENT TYPES (Article OR Proceedings Paper)
+
+Records returned: 698

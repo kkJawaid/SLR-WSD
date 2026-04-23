@@ -1,0 +1,55 @@
+CANONICAL SEARCH STRING
+Last updated:  2026-04-07
+Locked for execution: 2026-04-16
+Peer-reviewed using PRESS 2015 checklist: [N/A CURRENTLY]
+
+================================================================
+Boolean structure: (Block 1) AND (Block 2) AND (Block 3) AND (Block 4)
+================================================================
+
+BLOCK 1 - Language and Context terminology
+(
+  "Urdu" OR "Nastaliq" 
+  OR "low-resource language" OR "low resource languages"
+)
+
+AND
+
+BLOCK 2 - Concept and Task terminology
+(
+  "Word Sense Disambiguation" OR "WSD" 
+  OR "lexical ambiguity" OR "semantic understanding" 
+  OR "polysemy" OR "word sense ambiguity"
+)
+
+AND
+
+BLOCK 3 - Knowledge and Architecture terminology
+(
+  "Knowledge-Based System" OR "KBS" 
+  OR "knowledge-augmented" OR "structured lexical resource" 
+  OR "WordNet" OR "Urdu WordNet" OR "ontology"
+)
+
+AND
+
+BLOCK 4 - Large Language Model and Technique terminology
+(
+  "large language model" OR "large language models"
+  OR "LLM" OR "LLMs" 
+  OR "fine-tuning" OR "fine tuned" 
+  OR "transformer" OR "QLoRA" OR "LoRA"
+)
+
+================================================================
+Filters
+================================================================
+
+Date range: 2018-01-01 to 2026-06-30
+Languages: English
+Document types: Journal article 
+
+Note: PRESS peer review by a second information specialist completed
+[N/A CURRENTLY]. Minor adjustments made to include specific fine-tuning 
+terminologies (QLoRA, LoRA) and specific lexical resources (WordNet) 
+to align with the project's Knowledge-Based Systems architecture.

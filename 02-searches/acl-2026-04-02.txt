@@ -1,0 +1,14 @@
+ACL Anthology Search [N/A IN THIS PROJECT, TEMPLATE LEFT INTACT]
+
+Note: ACL Anthology does not support full Boolean queries. Search performed
+in two phases combining results.
+
+Phase 1: query "GraphRAG" (all fields)
+Phase 2: query "knowledge graph retrieval-augmented generation" (all fields)
+Phase 3: query "knowledge graph LLM retrieval"
+
+Year filter: 2022-2026
+Venues: NAACL, ACL, EMNLP, EACL, COLING, AACL, Findings (peer-reviewed)
+        Workshop papers excluded per protocol
+
+Records returned (after deduplication of Phase 1+2+3): 156
