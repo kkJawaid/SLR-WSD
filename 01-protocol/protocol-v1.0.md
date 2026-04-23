@@ -107,6 +107,7 @@ The structured data extraction form captures: bibliographic data, KBS architectu
 - Effort and methodologies required for lexical dataset integration.
 
 ### 3.7 Risk of bias (PRISMA-P item 14 / PRISMA 2020 item 11)
+[N/A IN THIS PROJECT, THE FOLLOWING PARA. LEFT INTACT]
 
 A custom risk of bias assessment instrument, adapted from QUADAS-2 principles for methodological NLP and Machine Learning studies, will be applied to each included study by two independent reviewers. This will assess potential biases in dataset selection, model evaluation transparency, and baseline fairness.
 
@@ -121,7 +122,7 @@ Synthesis will be organized by the predefined research questions:
 - **RQ4:** Identification of primary limitations, focusing on fragmented architectures and the lack of explainability.
 
 ### 3.9 Meta-bias and certainty (PRISMA 2020 items 14, 15)
-
+[N/A IN THIS PROJECT, THE FOLLOWING PARA. LEFT INTACT]
 Reporting bias will be assessed by examining whether studies report negative results, checking for selective outcome reporting against standardized NLP benchmarks, and noting publication patterns in low-resource language research. Certainty in the synthesis will be discussed narratively, considering the risk of bias, consistency of architectural approaches, and directness of evidence.
 
 ## 4. Reporting

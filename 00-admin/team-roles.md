@@ -4,8 +4,8 @@
 
 | Role | Name | Affiliation | Responsibilities |
 |---|---|---|---|
-| Reviewer 1 (R1) | Undergraduate Student 1 | NED UET | Independent screening, extraction |
-| Reviewer 2 (R2) | Undergraduate Student 2 | NED UET | Search strategy design, synthesis approach guidance  |
+| Student 1 (R1) | Undergraduate Student 1 | NED UET | Independent screening, extraction |
+| Student 2 (R2) | Undergraduate Student 2 | NED UET | Search strategy design, synthesis approach guidance  |
 
 ## Decision Authority
 

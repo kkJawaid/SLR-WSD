@@ -1,0 +1,3 @@
+### To Note:
+- [conflict-resolution-log.xlsx](03-screening\conflict-resolution-log.xlsx) is n/a for this project; however,the template has been left intact. 
+- Since all papers were automatically screened for pertinent information through Rayyan Tool without any conflicts (blind mode was not turned on) and solely by R1, [inter-rater-agreement.xlsx](03-screening\inter-rater-agreement.xlsx), [full-text-screening.xlsx](03-screening\full-text-screening.xlsx) are n/a for this project; however, the templates have been left intact. 

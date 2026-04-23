@@ -42,7 +42,7 @@ provides a quality floor necessary for synthesis reliability. Citations in high 
 ## 22026-04-1 — Search string finalization
 
 **Decision:** Final canonical search string locked after pilot search
-returned manageable counts on Scopus (1,243 records). Saved in
+returned manageable counts on Scopus (1,040 records). Saved in
 `02-searches/search-string-canonical.txt`.
 
 ---
