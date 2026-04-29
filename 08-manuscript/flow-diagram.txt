@@ -1,0 +1,97 @@
+PRISMA 2020 FLOW DIAGRAM — DATA
+
+This file contains the numbers needed to generate Figure 1 (PRISMA 2020 flow
+diagram). Generate the actual diagram using:
+
+  https://estech.shinyapps.io/prisma_flowdiagram/
+
+==============================================================
+IDENTIFICATION
+==============================================================
+
+Records identified from databases:
+  - ACM Digital Library:    287
+  - IEEE Xplore:            412
+  - Scopus:               1,243
+  - Web of Science:         698
+  - ScienceDirect:          187
+  - ACL Anthology:          156
+  TOTAL identified:       2,983
+
+Records identified from other methods (registers, websites, etc.):
+  - None (this review used databases only)
+
+==============================================================
+SCREENING
+==============================================================
+
+PRISMA 2020 FLOW DIAGRAM — DATA
+
+This file contains the numbers needed to generate Figure 1 (PRISMA 2020 flow
+diagram). Generate the actual diagram using:
+
+  https://estech.shinyapps.io/prisma_flowdiagram/
+
+==============================================================
+IDENTIFICATION
+==============================================================
+PRISMA 2020 FLOW DIAGRAM — DATA
+
+This file contains the numbers needed to generate Figure 1 (PRISMA 2020 flow
+diagram). Generate the actual diagram using:
+
+  https://estech.shinyapps.io/prisma_flowdiagram/
+
+==============================================================
+IDENTIFICATION
+==============================================================
+
+Records identified from databases:
+  - IEEE Xplore:           1,000
+  - Google Scholar:           40
+  TOTAL identified:        1,040
+
+Records identified from other methods (registers, websites, etc.):
+  - None (this review used databases only)
+
+==============================================================
+SCREENING
+==============================================================
+
+Records before screening:                  1,040
+Records removed before screening:
+  - Duplicate records (via Rayyan):            2
+  - Records marked as ineligible by
+    automation tools:                          0
+  - Records removed for other reasons:         0
+
+Records screened (title/abstract):         1,038
+Records excluded at title/abstract:          940
+
+Reports sought for retrieval:                 98
+Reports not retrieved:                         2
+
+Reports assessed for eligibility:             96
+Reports excluded with reasons:                63
+  - Not related to Urdu language:             20
+  - Not addressing WSD / Semantics:           15
+  - No NLP/LLM methodology:                   12
+  - Irrelevant secondary study / survey:       8
+  - Wrong script focus (e.g., Roman Urdu):     5
+  - Short paper / under 4 pages:               3
+
+==============================================================
+INCLUDED
+==============================================================
+
+Studies included in review:                   33
+Reports of included studies:                  33
+
+==============================================================
+NOTE: PURE PRISMA 2020 — NO SNOWBALLING
+==============================================================
+
+This review used database searching only. The PRISMA 2020 flow diagram
+should be generated using the standard template (without "studies from
+other methods" boxes filled in), since no citation chasing or snowballing
+was performed per the protocol.
